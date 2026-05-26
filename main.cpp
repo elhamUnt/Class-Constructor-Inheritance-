@@ -44,6 +44,8 @@ public:
 int main() {
     Studenti s("Ardit", 20, 10);
 
+    Personi p("emri","mbiemri");
+    
     cout << endl;
 
     s.shfaqStudent();
